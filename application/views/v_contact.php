@@ -79,6 +79,6 @@
       </div>
     </div>
 
-    <?php $this->load->view("V_footer_foot"); ?>
+    <?php $this->load->view("v_footer_foot"); ?>
   </div>
   </body>

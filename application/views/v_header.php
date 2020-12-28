@@ -23,7 +23,6 @@
 <link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/style.css">
 <link href="https://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
 
-<script src="https://netsh.pp.ua/upwork-demo/1/js/typeahead.js"></script>
 <script src="<?php echo base_url(); ?>assets/js/jquery-3.3.1.min.js"></script>
 
 
