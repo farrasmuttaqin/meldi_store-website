@@ -3,9 +3,7 @@ What is CodeIgniter
 ###################
 
 
-![test](https://github.com/farrasmuttaqin/meldi_store-website/blob/master/assets/screenshoot/profile.png)
-
-<img width=“964” alt=“java 8 and prio java 8  array review example” src=“https://github.com/farrasmuttaqin/meldi_store-website/blob/master/assets/screenshoot/profile.png”>
+![Image of Yaktocat](https://raw.githubusercontent.com/farrasmuttaqin/meldi_store-website/master/assets/screenshoot/profile.png)
 
 CodeIgniter is an Application Development Framework - a toolkit - for people
 who build web sites using PHP. Its goal is to enable you to develop projects
