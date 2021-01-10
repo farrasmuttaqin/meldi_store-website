@@ -18,7 +18,7 @@ of the CodeIgniter User Guide.
 ## Showcases
 
 ![Home - Dashboard Page](https://raw.githubusercontent.com/farrasmuttaqin/meldi_store-website/master/assets/screenshoot/dashboard.png)
-![Home - Dashboard Page - 2](https://raw.githubusercontent.com/farrasmuttaqin/meldi_store-website/master/assets/screenshoot/dashboard2.png)
+![Home - Dashboard Page - 2](https://raw.githubusercontent.com/farrasmuttaqin/meldi_store-website/master/assets/screenshoot/dashboard_2.png)
 ![Home - Footer Page](https://raw.githubusercontent.com/farrasmuttaqin/meldi_store-website/master/assets/screenshoot/footer.png)
 <p align="center">Figure 1: Dashboard Page</p>
 
